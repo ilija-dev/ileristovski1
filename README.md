@@ -12,6 +12,11 @@ Want to get in touch?
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ilija-ristovski/)
 
 
+## GitHub:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ileristovski1&theme=dark&background=000000)](https://git.io/streak-stats)
+
+## Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ileristovski1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💼 Skills
