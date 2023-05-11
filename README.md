@@ -15,8 +15,6 @@ Want to get in touch?
 ## GitHub:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ileristovski1&theme=dark&background=000000)](https://git.io/streak-stats)
 
-## Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ileristovski1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 Skills
 
