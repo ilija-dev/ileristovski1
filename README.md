@@ -18,7 +18,6 @@ Want to get in touch?
 ## Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ileristovski1)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
