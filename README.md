@@ -13,7 +13,7 @@ Want to get in touch?
 
 
 ## GitHub:
-![Ilija's GitHub stats](https://github-readme-stats.vercel.app/api?username=ileristovski1&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ileristovski1&hide_progress=true)
 
 
 ## 💼 Skills
