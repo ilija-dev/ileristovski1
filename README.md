@@ -13,8 +13,12 @@ Want to get in touch?
 
 
 ## GitHub:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ileristovski1&layout=donut-vertical&theme=dark)](https://github.com/ileristovski1/github-readme-stats)
-![Ilija's GitHub stats](https://github-readme-stats.vercel.app/api?username=ileristovski1&show_icons=true&theme=dark)
+<a href="https://github.com/ileristovski1/my-portfolio">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ileristovski1&theme=dark" />
+</a>
+<a href="https://github.com/ileristovski1/tuuty">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ileristovski1&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 
 
 ## 💼 Skills
@@ -55,11 +59,3 @@ Want to get in touch?
 ### Design Tools
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
 
-
-### Repos
-<a href="https://github.com/ileristovski1/my-portfolio">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ileristovski1" />
-</a>
-<a href="https://github.com/ileristovski1/tuuty">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ileristovski1&layout=compact&langs_count=8&card_width=320" />
-</a>
