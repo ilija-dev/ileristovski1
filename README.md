@@ -13,7 +13,7 @@ Want to get in touch?
 
 
 ## GitHub:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ileristovski1&theme=dark&background=000000)](https://git.io/streak-stats)
+![Ilija's GitHub stats](https://github-readme-stats.vercel.app/api?username=ileristovski1&show_icons=true&theme=transparent)
 
 
 ## 💼 Skills
