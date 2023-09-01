@@ -13,7 +13,7 @@ Want to get in touch?
 
 
 ## GitHub:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ileristovski1&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ileristovski1&layout=donut-vertical)](https://github.com/ileristovski1/github-readme-stats)
 
 
 ## 💼 Skills
