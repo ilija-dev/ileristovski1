@@ -14,6 +14,7 @@ Want to get in touch?
 
 ## GitHub:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ileristovski1&layout=donut-vertical&theme=dark)](https://github.com/ileristovski1/github-readme-stats)
+![Ilija's GitHub stats](https://github-readme-stats.vercel.app/api?username=ileristovski1&show_icons=true&theme=dark)
 
 
 ## 💼 Skills
