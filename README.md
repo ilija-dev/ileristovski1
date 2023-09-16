@@ -20,5 +20,3 @@ Want to get in touch?
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ileristovski1&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
-
