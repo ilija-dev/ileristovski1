@@ -3,13 +3,11 @@ I’m Ilija, a full stack developer with a passion for solving complex problems 
 Current interest: **Blockchain**
 
 
-Want to get in touch? 
+Want to get in touch?
 <br>
-[Check out my portfolio.](https://ilijaristovski.netlify.app/)
+[Check out my Twitter.](https://twitter.com/RistovskiIlija)
 <br>
-[Check out my twitter.](https://twitter.com/RistovskiIlija)
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ilija-ristovski/)
+[Check out my LinkedIn.](https://www.linkedin.com/in/ilija-ristovski/)
 
 
 ## GitHub:
