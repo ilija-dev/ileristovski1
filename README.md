@@ -1,7 +1,5 @@
 I’m Ilija, a full stack developer with a passion for solving complex problems and bringing business ideas to life. I enjoy every part of the software engineering process and like to contribute in a polished and professional manner.
 
-Current interest: **Blockchain**
-
 
 Want to get in touch?
 <br>
